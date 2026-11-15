@@ -20,6 +20,9 @@ This repository contains the programming solutions for **CCS 2214 Task 3**, impl
 ### Python Files (`Question1.py` – `Question6.py`)
 ```bash
 python Question1.py
-
+```
+### C File (`Question7.c`)
+```bash
 gcc Question7.c -o Question7
 ./Question7
+```
